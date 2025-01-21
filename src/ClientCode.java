@@ -1,7 +1,7 @@
 /*
 git pull
 git status
-git commit -m ""
+git commit -m "" teste
 git push 
 */
 
